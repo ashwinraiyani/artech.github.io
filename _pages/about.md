@@ -2,33 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Associate Professor, Computer Science Engineering ·
+  <a href="https://karnavatiuniversity.edu.in">Unitedworld Institute of Technology, Karnavati University</a> ·
+  Gandhinagar, Gujarat, India
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AWS Community Builder (2026)</p>
+    <p>Google Cloud Facilitator</p>
+    <p>ISTE & CSI Lifetime Member</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an Associate Professor in Computer Science Engineering at Unitedworld Institute of 
+Technology, Karnavati University, Gandhinagar. My work sits at the intersection of Cloud 
+Computing, Big Data Analytics, IoT, and Distributed Ledger Technologies — with a growing 
+thread of research into Cybersecurity and Supply Chain Management.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My PhD (2021, RK University) examined how Big Data Analytics reshapes Supply Chain 
+operations — a question that pulled me toward the practical side of research early on. 
+Before academia, I worked as a Business Analyst at Cyberlog Technologies and briefly at 
+Bombay Stock Exchange, Mumbai. That industry grounding still shapes how I approach 
+problems — I care less about theory in a vacuum and more about what actually works.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Over 19 years across industry and higher education, I've taught at RK University (where I 
+also served as HoD), Nirma University, Parul University, and now Karnavati University. 
+I've supervised 3 PhD scholars to completion, published 15+ papers in Scopus/internationally 
+indexed journals, and filed 2 patents — one of which was granted in January 2026.
+
+On the cloud side, I hold certifications from AWS (Solutions Architect, AI Practitioner, 
+Cloud Foundation Educator) and Google Cloud (Associate Cloud Engineer, 6-course 
+specialization). I'm currently an AWS Community Builder (Year 2, 2026) and a recognized 
+Google Cloud Facilitator.
+
+I'm a lifetime member of ISTE and CSI, and have served as Treasurer of the CSI Rajkot 
+Chapter. I received an AICTE MODROB grant of ₹14.38 lakhs and was a Silver Level Partner 
+Faculty under Infosys Campus Connect in 2017 and 2018.
