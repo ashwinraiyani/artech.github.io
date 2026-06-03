@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Associate Professor, Computer Science Engineering ·
-  <a href="https://karnavatiuniversity.edu.in">Unitedworld Institute of Technology, Karnavati University</a> ·
+  Unitedworld Institute of Technology, Karnavati University
   Gandhinagar, Gujarat, India
 
 profile:
